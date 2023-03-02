@@ -1,0 +1,36 @@
+@import 'fonts';
+@import 'colors';
+
+.button {
+    display: inline-flex;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: map-get($font-weights, medium);
+    text-align: center;
+    border: none;
+    transition:all .2s ;
+}
+
+.btn-home {
+    @extend .button;
+    background-color: $primary;
+    color: #fff;
+
+    &:hover {
+        background-color: #3C5F21 !important;
+        color: #fff !important;
+    }
+}
+
+.btn-second {
+    @extend .button;
+    background-color: #fff;
+    color: $primary;
+    border: 2px solid $primary;
+
+    &:hover {
+        background-color: $primary;
+        color: #fff;
+    }
+    
+}

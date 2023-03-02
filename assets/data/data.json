@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Mid-Century Chair",
+        "harga": "502.000",
+        "image": "product1.png"
+    },
+    {
+        "nama": "Premium Table",
+        "harga": "120.000",
+        "image": "product2.png"
+    },
+    {
+        "nama": "Desk Office Home",
+        "harga": "450.000",
+        "image": "product3.png"
+    },
+    {
+        "nama": "Lux Sofa",
+        "harga": "200.000",
+        "image": "product4.png"
+    },
+    {
+        "nama": "Bakers Rack",
+        "harga": "250.000",
+        "image": "bakers-rack.png"
+    },
+    {
+        "nama": "Toilet Storage With Rack",
+        "harga": "145.000",
+        "image": "toilet-storage.png"
+    }
+]

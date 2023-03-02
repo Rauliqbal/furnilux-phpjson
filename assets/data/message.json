@@ -1,0 +1,12 @@
+[
+    {
+        "email": "contoh@gmail.com",
+        "nama": "Raul",
+        "pesan": "Saya Ingin Bertanya"
+    },
+    {
+        "nama": "Admin",
+        "email": "admin@email.co",
+        "pesan": "Apakah ada rak dinding ?"
+    }
+]
